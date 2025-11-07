@@ -2,3 +2,5 @@
 Learning and practicing version control
 
 More content
+
+Adding this content using VScode
