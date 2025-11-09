@@ -26,7 +26,7 @@ def determine_winner(u, c):
         return "TIE GAME"
 
 
-if __name__=="__main__"
+if __name__=="__main__":
     user_choice = input("Please choose one of 'rock', 'paper', or 'scissors': ")
     print("USER:", user_choice)
 
